@@ -20,7 +20,9 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <img src="#### 📚 Habilidades em construção:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,aws,docker,mongodb,github)](https://skillicons.dev)" width="32" height="32" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/joão-pedro-de-oliveira-duarte-lage-14a1a7352" target="_blank" rel="noreferrer">
