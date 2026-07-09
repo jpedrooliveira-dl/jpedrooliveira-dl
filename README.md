@@ -2,7 +2,7 @@
 <h3 align="center">Um mineiro apaixonado por transformar ideias em soluções digitais</h3>
 
 <p align="center">
-  💻 Desenvolvedor Fullstack em formação | 🎓 Sistemas de Informação - Anhanguera
+  💻 Desenvolvedor Fullstack em formação | 🎓 Sistemas de Informação
 </p>
 
 ---
