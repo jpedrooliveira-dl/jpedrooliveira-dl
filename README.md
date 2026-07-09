@@ -19,12 +19,11 @@
 
 | Projeto | Descrição |
 |---|---|
-| 🗂️ **[cadastraai](#)** | Sistema de cadastro/gestão de dados |
-| 📚 **[knowledge-base](#)** | Base de conhecimento pra organizar e consultar informações |
-| ⚖️ **[calcularIMC](#)** | Calculadora de IMC (Índice de Massa Corporal) |
-| 🏙️ **[QualiCity](#)** | Projeto voltado pra qualidade/gestão urbana |
+| 🗂️ **[cadastraai](https://github.com/jpedrooliveira-dl/cadastraai)** | Sistema de cadastro/gestão de dados |
+| 📚 **[knowledge-base](https://github.com/jpedrooliveira-dl/knowledge-base)** | Base de conhecimento pra organizar e consultar informações |
+| ⚖️ **[calcularIMC](https://github.com/jpedrooliveira-dl/calcularIMC)** | Calculadora de IMC (Índice de Massa Corporal) |
+| 🏙️ **[QualiCity](https://github.com/jpedrooliveira-dl/QualiCity)** | Projeto voltado pra qualidade/gestão urbana |
 
-> 💡 Atualize os links acima com a URL de cada repositório!
 
 ---
 
