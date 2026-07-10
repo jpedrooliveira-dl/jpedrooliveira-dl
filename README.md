@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 🖥️ Minha paixão é transformar ideias em soluções digitais inovadoras. Atualmente estou cursando **Sistemas de Informação** na Anhanguera, buscando entender a fundo como a tecnologia pode otimizar processos e facilitar a vida das pessoas.
+- 🖥️ Minha paixão é transformar ideias em soluções digitais inovadoras. Atualmente estou cursando **Sistemas de Informação**, buscando entender a fundo como a tecnologia pode otimizar processos e facilitar a vida das pessoas.
 - 🌱 Estou focado em me tornar um desenvolvedor **Fullstack**, unindo front-end e back-end pra construir aplicações completas, do banco de dados até a interface do usuário.
 - 🔍 Gosto de aprender fazendo — meus repositórios são meu laboratório de testes e evolução constante.
 
