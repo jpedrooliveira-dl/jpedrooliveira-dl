@@ -64,3 +64,5 @@
 <p align="center">
   <i>Aprendendo e evoluindo — um commit de cada vez 🚀</i>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jpedrooliveira-dl&color=green&style=plastic" alt="Contador de visitas do perfil"/></p>
