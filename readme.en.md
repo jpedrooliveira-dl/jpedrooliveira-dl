@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm João Pedro 👋</h1>
 
-[![Português](https://shields.io)](./README.md)
+[![Português](https://img.shields.io/badge/Language-Portuguese-green)](./README.md)
 
 <h3 align="center">A Brazilian from Minas Gerais passionate about turning ideas into digital solutions</h3>
 
