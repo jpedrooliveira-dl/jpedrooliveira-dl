@@ -1,4 +1,8 @@
 <h1 align="center">Olá, eu sou o João Pedro 👋</h1>
+
+[![English](https://img.shields.io/badge/Language-English-blue)](./readme.en.md)
+[![Español](https://img.shields.io/badge/Idioma-Español-red)](./readme.es.md)
+
 <h3 align="center">Um mineiro apaixonado por transformar ideias em soluções digitais</h3>
 
 <p align="center">
@@ -17,13 +21,12 @@
 
 ### 🛠️ Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| 🗂️ **[cadastraai](https://github.com/jpedrooliveira-dl/cadastraai)** | Sistema de cadastro/gestão de dados |
+| Projeto                                                                      | Descrição                                                  |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 🗂️ **[cadastraai](https://github.com/jpedrooliveira-dl/cadastraai)**         | Sistema de cadastro/gestão de dados                        |
 | 📚 **[knowledge-base](https://github.com/jpedrooliveira-dl/knowledge-base)** | Base de conhecimento pra organizar e consultar informações |
-| ⚖️ **[calcularIMC](https://github.com/jpedrooliveira-dl/calcularIMC)** | Calculadora de IMC (Índice de Massa Corporal) |
-| 🏙️ **[QualiCity](https://github.com/jpedrooliveira-dl/QualiCity)** | Projeto voltado pra qualidade/gestão urbana |
-
+| ⚖️ **[calcularIMC](https://github.com/jpedrooliveira-dl/calcularIMC)**       | Calculadora de IMC (Índice de Massa Corporal)              |
+| 🏙️ **[QualiCity](https://github.com/jpedrooliveira-dl/QualiCity)**           | Projeto voltado pra qualidade/gestão urbana                |
 
 ---
 
